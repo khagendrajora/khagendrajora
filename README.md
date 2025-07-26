@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khagendra</h1>
 <h3 align="center">Computer Engineer and a passionate Software developer</h3>
 
+
 - 👨‍💻 Explore me at [https://www.khagendrajora.com.np/](https://www.khagendrajora.com.np/)
 
 - 📫 How to reach me **khagijora2074@gmail.com**
 
 
+[KhagendraSinghJ[CV.pdf](https://github.com/user-attachments/files/21445276/CV.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
